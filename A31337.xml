@@ -1,0 +1,463 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The innocent cleared and the guilty made manifest being a reply to a printed paper ... titled, Apostacy of the people called Quakers from the faith once delivered to the saints, subscribed by Francis Houlcroft and Joseph Oddey ... also a testimony of the universal love of God in Jesus Christ ... / by a servant of truth ... Samuel Cater.</title>
+            <author>Cater, Samuel, d. 1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31337</idno>
+            <idno type="STC">Wing C1485</idno>
+            <idno type="STC">ESTC R36282</idno>
+            <idno type="EEBO-CITATION">15626253</idno>
+            <idno type="OCLC">ocm 15626253</idno>
+            <idno type="VID">104255</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104255)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1183:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The innocent cleared and the guilty made manifest being a reply to a printed paper ... titled, Apostacy of the people called Quakers from the faith once delivered to the saints, subscribed by Francis Houlcroft and Joseph Oddey ... also a testimony of the universal love of God in Jesus Christ ... / by a servant of truth ... Samuel Cater.</title>
+                  <author>Cater, Samuel, d. 1711.</author>
+               </titleStmt>
+               <extent>30, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holcroft, Francis, 1629?-1693.</term>
+               <term>Oddey, Joseph.</term>
+               <term>Society of Friends --  England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104255:1"/>
+            <pb facs="tcp:104255:1" rendition="simple:additions"/>
+            <p>THE Innocent Cleared AND THE Guilty Made Manifeſt Being a <hi>Reply</hi> to a Printed Paper lately come to my Hand, titled, <hi>Apoſtacy of the People called</hi> Quakers <hi>from the Faith once delivered to the Saints;</hi> ſubſcribed by <hi>Francis Houlcroft</hi> and <hi>Joſeph Oddey,</hi> who call themſelves <hi>Miniſters of Chriſt,</hi> but upon true Examination are made mani<g ref="char:EOLhyphen"/>feſt by their Fruits to be otherwayes.</p>
+            <p>That is to ſay, Ignorant of the True God and Jeſus Chriſt, and Enemies to his Appearance; and their Lyes and Slanders that they caſt upon the Innocent concerning a Paper printed, in which we gave a true Account of the late Meeting at <hi>Thriploe,</hi> turned back upon themſelves, and their Folly made manifeſt.</p>
+            <p>Their Contradictions compar'd, and their Wreſting &amp; Per<g ref="char:EOLhyphen"/>verting the Holy Scriptures of Truth diſcovered, and their Rude and Unſavoury Words, and Hard and Ungodly Speeches, againſt God, his Truth and People, Reproved.</p>
+            <p>How they wreſt our Words, and add to our Words that which we never ſaid, and then cry out againſt us, and endeavour to render us and our Principles thereby Odious.</p>
+            <p>Alſo, A Teſtimony of the Univerſal Love of God in Jeſus Chriſt, as it now appears unto all men, witneſſed by the Scriptures of Truth.</p>
+            <p>
+               <hi>By a Servant of Truth, and one that deſires the Good of all men, known by the Name of</hi> SAMUEL CATER.</p>
+            <p>Printed in the Year, 1676.</p>
+         </div>
+         <div type="quotation">
+            <pb facs="tcp:104255:2"/>
+            <p>The Diſciple is not above his Maſter, nor the Servant a<g ref="char:EOLhyphen"/>bove bis Lord; it is enough for the Diſciple that he be as his Maſter, and the Servant as his Lord: If they have called the Maſter of the Houſe <hi>Beelzebub,</hi> how much more them of his Houſhould? <hi>Matthew 10.24, 25.</hi>
+            </p>
+            <p>Jeſus anſwered and ſaid unto them, Ye do Err, not know<g ref="char:EOLhyphen"/>ing the Scriptures nor the Power of God, <hi>Matthew 22.29.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:104255:2" rendition="simple:additions"/>
+            <head>THE INNOCENT CLEARED: AND THE GUILTY Made Manifeſt.</head>
+            <p>AND now all may ſee what <hi>Francis Houlcroft</hi> and <hi>Joſeph Oddey</hi> have ſaid and given under their own Hands, and ſent abroad in Print, which if I ſhould have reported of them, and not have had it under their own Hands, they would without all queſtion have denyed their own words, as they have already done what they ſpake before many Witneſſes at that Meeting at <hi>Thriploe,</hi> which will witneſs to their Faces, that the Account which we have publiſhed in Print, concerning their Words and Carriages is true: And now ſee their own Words, which I have here faithfully ſet down, and collected out of their own Books, which is as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>Page 1. ſayes <hi>Francis Holcraft</hi> and <hi>Joſeph Oddey, The for<g ref="char:EOLhyphen"/>ged Lyes of a late Pamphlet of theirs.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> But <hi>F. H.</hi> and <hi>J. O.</hi> you had been wiſer and hone<g ref="char:EOLhyphen"/>ſter if you had proved it ſo to be, before you had publiſhed it ſo; for we ſtill affirm the Truth of it, and there are three of our Names to it, and you have not yet proved the contrary;
+<pb n="4" facs="tcp:104255:3"/> and we whoſe Names are here ſubſcribed do promiſe, if the Lord permit to give us Life and Health, To give you another Meeting at any Time or Place, which may be equally agreed upon between us, to maintain and prove all that Relation to be true, that we have before publiſhed in Print, before any People that may come to hear it, which we deſire may be be<g ref="char:EOLhyphen"/>fore the time of theſe Citations of J. O. in pag. 14. who would put us off unto the Day of Judgment.</p>
+            <list>
+               <item>
+                  <hi>Samuel Cater,</hi>
+               </item>
+               <item>
+                  <hi>John Web,</hi>
+               </item>
+               <item>
+                  <hi>Jacob Baker.</hi>
+               </item>
+            </list>
+            <p>And now I ſhall take notice of your words, as you have ſet them down, and ſent them abroad in Print. And I do tell you, that I am glad that you have thus appeared, whereby you are further made manifeſt. And as for your Railing a<g ref="char:EOLhyphen"/>gainſt me, and Miſcalling of me and the reſt of us, who be<g ref="char:EOLhyphen"/>lieve in the true Light, which God hath made manifeſt to our Souls, for the leading and guiding of us in the Way of Life; its little matter to us, only this, its an Evidence of Salvation to us, and that of God; for it was ever the Portion of God's Servants and Children to be Reviled and Evil ſpoken on by thoſe that hate the Light, and live in Darkneſs.</p>
+            <p>Pag. 3. Lin. 4. F. H. <hi>When I came near the Barn, where theſe People were met, I heard one ſpeaking, and I made a ſtay, without reſolving that I would not go in till he had teaſed his Ser<g ref="char:EOLhyphen"/>vice of his Falſe Chriſt, the Light that is in all men, a New God, which neither we nor our Fathers have known.</hi>
+            </p>
+            <p>
+               <hi>Rep. Firſt,</hi> 'Tis to be taken notice of, how this man knew or underſtood what it was that our Friend did declare to the People at that time, ſeeing he would not come into the Houſe until he had done ſpeaking: But however, he is reſolved to give Judgment againſt him, contrary to that equal Law which judgeth no Man until he is heard.</p>
+            <p>But further, Here thou art judged out of thy own Mouth
+<pb n="5" facs="tcp:104255:3"/> to be in the Steps of thy Fore-fathers the <hi>Phariſees,</hi> who ſaid concerning Chriſt unto the Blind Man, whom Chriſt had open<g ref="char:EOLhyphen"/>ed his Eyes, <hi>As for this Fellow we know not whence he is,</hi> John 9.29. ſo ſayeſt thou now concerning God and Jeſus Chriſt, which the Scripture fully declares to be the true Light, and which l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghteth every man that cometh into the World; <hi>a God</hi> (ſayeſt thou) <hi>which neither we nor our Fathers have known;</hi> in this thou haſt ſpoken the Truth, which I believe concerning thee, and all ſuch as thou art, who hate the Light, and love Darkneſs. O! bluſh and be aſhamed, thou Vain Babler and Unprofitable Talker, who ſayeſt, <hi>thou art O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the Ele<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and callſt thy ſelf, <hi>a Miniſter of Chriſt,</hi> and yet knoweſt nei<g ref="char:EOLhyphen"/>ther the Father nor the Son, <hi>who is Light, and in him is no Darkneſs at all.</hi> And now thou Blind Guide, that walkeſt in Darkneſs, and knoweſt not whither thou goeſt, nor wher<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>of thou doſt affirm: Read the Teſtimony of the True Mini<g ref="char:EOLhyphen"/>ſters of Chriſt, whom thy Fore-fathers, the <hi>Phariſees,</hi> com<g ref="char:EOLhyphen"/>manded to preach no more in the Name of Jeſus, 1 <hi>John</hi> 1.5. the words are theſe, <hi>This is the Meſſage which we have heard of him and declare unto you, that God is Light, and in him is no Darkneſs at all.</hi> Verſ. 6. <hi>If we ſay, we have Fellowſhip with him, and walk in Darkneſs, we lye, and do not the Truth; but if we walk in the Light, as he is in the Light, we have Fel<g ref="char:EOLhyphen"/>lowſhip one with another, and the Blood of Jeſus Chriſt his Son cleanſeth us from all Sin:</hi> which Scriptures already are ſuffici<g ref="char:EOLhyphen"/>ent to convict thee, and to manifeſt thy groſs Darkneſs and Ignorance of the true God and Jeſus Chriſt, and all elſe that are of thy Mind; but I do deſire, thou mayſt come to ſee thy ſelf, and to know the Darkneſs and Blindneſs that thou art in, and however I may be clear of thy Blood, and thy Folly made manifeſt to all, I ſhall not ſpare my Pains to endeavour to do thee good for the Evil thou haſt rendred unto me, and the reſt of my Friends, who from time to time haſt made it thy Buſineſs to Rail of us, and to render us and the Truth that we profeſs Odious; and this thou knoweſt we can prove to thy Face, and ſhal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it if the L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> give <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s an Opportunity. And now read what is ſaid in the Holy Scriptures of Chriſt, which
+<pb n="6" facs="tcp:104255:4"/> thou nor all the cunning Crafts-men that the old Serpent makes uſe of to with-ſtand the Univerſal Appearance of God's Grace and Light to all men in this the Day of his Love, can do. Joh. 1.4. <hi>In him is Life, and the Life was the Light of Men:</hi> Verſ. 9. <hi>Which was ſent to bear witneſs of that Light, that was the True Light, that lighteth every Man that cometh into the World;</hi> which is ſpoken of Chriſt. 2 Cor. 4.6. <hi>God that commanded the Light to ſhine out of Darkneſs, hath ſhined in our Hearts, to give the Light of the Knowledge of the Glory of God in the Face of Ieſus;</hi> and this is the True God and Chriſt, that we believe in, and turn People unto, who hath ſhined by the Power and Coming of his Heavenly and Divine Light into our Hearts and Souls, whereby he hath made us to inherit Comfort; whereby we ſee the Scripture is fulfilled, <hi>The People that ſate in Darkneſs have ſeen a Great Light, and thoſe that ſate in the Regions and Shadow of Death, unto them Light is ſprung up, Mat.</hi> 4.16. whereby we ſee the fulfilling of the Prophet <hi>Iſaiah</hi>'s Prophecy, <hi>Iſa.</hi> 60.19. <hi>The Sun ſhall be no more thy Light by Day, nor for Brightneſs ſhall the Moon give Light unto thee, but the Lord ſhall be unto thee an everlaſting Light, and thy God thy Glory;</hi> and this Light is the Way that the Holy Men of God travailed in, though thee and thy Fore-fathers know it not, ſaith <hi>Solomon, The Path of the Juſt is as the ſhining Light, &amp;c.</hi> Prov. chap. 4. ver. 18. Iſa. chap. 2. ver. 5. <hi>O Houſe of Jacob, come ye and let us walk in the Light of the Lord;</hi> and Chriſt ſaith, <hi>I am the Way, and there is none comes to the Father but by me,</hi> who ſaith alſo, <hi>I am the Light of the World;</hi> and this is the Way that the true Miniſters of Chriſt turned People unto, and were made Miniſters of, <hi>Acts</hi> 26.23. to open their Eyes, &amp; to turn them from Darkneſs to Light, &amp;c. that by it they might ſee their Way out of Sin and Evil, and to know their Feet guided in the Way of Peace, <hi>Luke</hi> 1.79. which Light and Truth was that which the Prophets prayed for, <hi>Pſalm.</hi> 43.3. <hi>O ſend out thy Light and thy Truth, let them lead me, let them bring me unto thy Holy Hill, and to thy Tabernacle,</hi> Pſalm. 36.19. <hi>For with thee is the Foundation of Life, in thy Light ſhall we ſee Light:</hi> And now thou
+<pb n="7" facs="tcp:104255:4" rendition="simple:additions"/> that makeſt it thy Buſineſs to cry out againſt the <hi>Quakers</hi> Light, whoſe Light is God, and Chriſt, and the Truth, and Way to Life to ſo many as walk therein, and are guided thereby; for this I can ſay, and my Conſcience beareth me witneſs that I ne<g ref="char:EOLhyphen"/>ver preached nor declared any other Light to be the Way of Life then the true God and Jeſus Chriſt, which the Scriptures of Truth largely witneſs to be ſo, as I have here proved; and thou that ſay'ſt, this God and Chriſt that lighteth all Men, that the <hi>Quakers</hi> preach, is a God that neither you nor your Fathers have known; whereby you have manifeſted your groſs Dark<g ref="char:EOLhyphen"/>neſs and Ignorance, both of the true God and Jeſus Chriſt, whom to know is Life Eternal; and if I ſhould ſay no more of this thy railing envious Piece of Confuſion, which thou and thy Brother <hi>Oddey</hi> have ſent abroad, you are largely made mani<g ref="char:EOLhyphen"/>feſt to be in that State which you ſay the <hi>Quakers</hi> are in, who preach another God, another Jeſus, and are of another Spirit then what the Prophets and Apoſtles were of, who ſaid, God is Light, and Chriſt is the true Light that lighteth every Man that cometh into the World, and this the God that thou ſay'ſt neither you nor your Fathers have known; and I do tell you that I do believe that you ſpeak Truth in that, and do judge you out of your own Mouthes to be in their Steps that crucified Chriſt, of whom he ſaid, <hi>Theſe Things they do becauſe they know not the Father nor me:</hi> And this I can truly ſay, not<g ref="char:EOLhyphen"/>withſtanding all your railing Words and unſavoury Speeches concerning me, I deſire that the Lord may give you Repen<g ref="char:EOLhyphen"/>tance of your Abuſes offered againſt Chriſt and his Appearance, that ſo you may come to have the Benefit of his Requeſt unto his Father, <hi>Father forgive them, for they know not what they do;</hi> for I hope your Envy manifeſted againſt us and the Truth which we profeſs, is more out of Ignorance then Wilfulneſs, which if ſo, I deſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re the Lord may open your Eyes, that you may come to ſee what you are doing of.</p>
+            <p>Page 3. thou ſay'ſt, <hi>That thou offeredſt to prove that the</hi> Qua<g ref="char:EOLhyphen"/>kers <hi>preached another Jeſus, and had received another Spirit and another Goſpel then what was preached by the Apoſtles.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> We acknowledge thou ſaid'ſt ſo then, and now telleſt
+<pb n="8" facs="tcp:104255:5"/> us as much in thy Book, but thou didſt not go about to prove it then, neither haſt thou done it now, ſo that it is ſooner ſaid then proved; and thy pittiful Shift to eva<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the proving of what thou haſt promiſed is already in Print, which was, to ask us whether we owned the true Chriſt, yea or nay? to which then I did freely confeſs, and have m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re largely now confeſt my Faith and Belief and Hope of Salvation to be in the true God and Jeſus Chriſt, whereby it appears thy Accuſation againſt me and the reſt of my Brethren is falſe, and that you are the Men that preach another Goſpel, and are out of the Faith that was once delivered unto the Saints, whoſe Faith ſtood in the Light and Power of God, which was and is the Author of the true Faith, and the Finiſher in all thoſe that continue therein, which Faith gives Victory over the World, and gives Power and Cou<g ref="char:EOLhyphen"/>rage to follow the Lord as faithfully, and confeſs Chriſt as o<g ref="char:EOLhyphen"/>penly in Times of Suffering and Perſecution, as in Times of the greateſt Freedom and Liberty, which Faith hath been made manifeſt by our Fruits to be in and amongſt us ever ſince we have been a People, whereby it appears that good <hi>Daniel</hi>'s Spirit is revealed in &amp; amongſt us, who would not ſo much as ſhut his Windows to ſhun Perſecution, but prayed as openly as he did at other Times.</p>
+            <p>Page 3. thou ſay'ſt, <hi>One of the</hi> Quakers <hi>ſaid to a Friend of thine, that the Body of Chriſt conſumed in the Grave, as others do.</hi>
+            </p>
+            <p>And <hi>Francis,</hi> why didſt not thou ſet down the Name of that One thou ſpeakeſt of, whereby we might have known who it had been; for until thou doſt, I do charge it upon thee as a falſe Accuſation, as knowing it to be none of us that ſaid ſo, neither doth it agree with our Principles; and thou knoweſt that I have confeſſed otherwiſe in Print to thy Shame.</p>
+            <p>Again page 3. F. H. ſaith, <hi>Although I have deſired that ſome few might ſpeak, yet the Men and Women let looſe their Tongues at their Pleaſure, ſome railing and gnaſhing on us with their Teeth.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> But <hi>Francis,</hi> why haſt thou not ſet down the Names of thoſe that did ſo; Oh ſhameleſs Man! to publiſh ſuch Lyes in Print;
+<pb n="9" facs="tcp:104255:5" rendition="simple:additions"/> doſt thou think to hide thy ſelf under this pitiful Covering? but <hi>Francis,</hi> I have not yet forgot thine and thy Brother <hi>Odde</hi>'s rude Speeches and unſavoury Carriages, ſome of which are already in Print, what he ſaid at his coming in and going out of the Meeting, calling us Dogs, Dogs, and Vipers too.</p>
+            <p>In page 4. <hi>Francis</hi> ſaith, <hi>Know you Deceivers that many already ſee by the Light of the Word of God, and many I hope more daily ſhall, that theſe are no ſlanders, but a faithful wit<g ref="char:EOLhyphen"/>neſſing given by us againſt you.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> And to prove us Deceivers, he tells us of ſome of his Brethren, he calls Miniſters, have writ Books againſt us, which Books have been already anſwer'd by us, and their dark Works detected; but <hi>Francis,</hi> if thou waſt not wholly in Darkneſs, thou would'ſt ſee thy Folly, in taking this Way to prove the Matter; for if this be the only Way to prove thee and thy Brethren Deceivers, then remember how many Books have been publiſhed in Print with our Names to them, againſt you Hireling Prieſts &amp; Envious Profeſſors theſe twenty Years, whereby you have been marked out by your Fruits and Do<g ref="char:EOLhyphen"/>ctrines to be apoſtatized from the true Faith and Practice of the true Apoſtles and Miniſters of Chriſt, and are diſcovered thereby to be walking in the Steps of the falſe; in whoſe Steps I number you, who appear to be Enemies to the true Light.</p>
+            <p>Page 5. F. H. ſaith, <hi>He is falſly reported of to have ſaid and affirm, that every one is enlightned with the Light of Chriſt is curſed Idolatry; and again, he is falſly reported to ſay, that every one is enlightned I grant, but not with the Light of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> But F. H. art not thou aſhamed thus to tell Lyes in Print, and to deny that which thy Tongue ſpake then in the hearing of many Witneſſes, and which thy Hand here hath ſet down, whereby thou contradicteſt thy ſelf; for ſay'ſt thou at the very following Words, by which thou chargeſt us for wronging of thee in ſaying, that the Light of Chriſt is curſed idolatry, ſay'ſt tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>What the Idolatry is you ſhall hear more largely,</hi> whereby thou haſt acknowledged the Charge.</p>
+            <p>Again page 5. F. H. ſaith, <hi>Thus I conſtantly affirm, that all
+<pb n="10" facs="tcp:104255:6"/> Men are by Chriſt, who is the true God and Eternal Life, en<g ref="char:EOLhyphen"/>lightned with the Light of Nature;</hi> of which you ſhall hear more hereafter, and what he ſaith of this Chriſt, which he ſaith gives unto all Men a Natural Light.</p>
+            <p>Page 5. S. C. <hi>asks what is it then that they are enlightned with?</hi> F. H. <hi>A Creature:</hi> S. C. <hi>What Kind of Creature, &amp;c. paſſing by your abſurd asking whether it be a Man or a Beast? I anſwer, I ſaid Deceivers, that the Light in all Men is cre<g ref="char:EOLhyphen"/>ated, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> I ſhall place this to thy Account, which increaſeth thy Lyes and Slanders of the Innocent; for thou didſt ſay that the Light was a Creature, and now thou ſay'ſt that the Light in all Men is created; but what Advantage thou haſt gotten by tel<g ref="char:EOLhyphen"/>ling this Lye, and altering thy Word from a Creature to Cre<g ref="char:EOLhyphen"/>ated, I cannot ſee, except it be to abuſe us by thy Lyes, whoſe Reward will be according to thy Work, if thou repenteſt not. And whereas thou ſay'ſt, <hi>That we rend thee, or rail on thee be<g ref="char:EOLhyphen"/>cauſe thou wilt not blaſpheme the true God with the</hi> Quakers, <hi>and term the Light that is in all Men by Nature is the one Jehovah:</hi> I ſay, this is a falſe Accuſation, and to call the Light that light<g ref="char:EOLhyphen"/>eth every Man that cometh into the World Natural, is groſs Darkneſs, and are thy Words, and not ours, nor Scripture-Words; for we ſay and affirm, that Light that ſhineth in and unto every Man, and which gives him the Knowledge of what is good, and what is evil, is pure and ſpiritual, and comes from God, who is a Spirit.</p>
+            <p>Page 6. F. H. ſaith, Col. 1.27. <hi>To whom God will make known what is the Riches of the Glory of this Myſtery amongſt the</hi> Gentiles, <hi>which is Chriſt in you the Hope of Glory; this</hi> (ſaith he) <hi>they prophainly with daubing Flattery apply to all men, and the Light that is in all men, this is Chriſt in them all, the Hope of Glory.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou haſt ignorantly or willingly belyed us; for we never did fo ſay or affirm, that the Light of Chriſt, that ſhines and appears unto all Men, is Salvation unto all, or the Hope of Glory in all; for many there be that are condemned by it, becauſe they hate it, and as Chriſt ſaith, <hi>will not bring
+<pb n="11" facs="tcp:104255:6" rendition="simple:additions"/> their Deeds unto it, becauſe their Deeds are Evil,</hi> Joh. 3.19, 20. So that the Light of Chriſt is the Hope of Glory in them that believe in it, and obey it, which is according to <hi>Simeon</hi>'s Te<g ref="char:EOLhyphen"/>ſtimony, <hi>a Light to lighten the</hi> Gentiles, <hi>and the Glory of thy People</hi> Iſrael, Luke 2.32.</p>
+            <p>Page 6. F. H. ſaith, <hi>Another Scripture they bring to ſet up their falſe God, is</hi> Rom. 10.8. <hi>The Word is nigh in thy Heart and in thy Mouth, that is the Word of Faith which we preach; this they compare with</hi> John 1. <hi>and from theſe Words here ſpoken of, is Chriſt the Word, who was in the Beginning, Chriſt the Light, who is God, who is, they ſay, in the Heart of every man.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Now <hi>Francis</hi> if thou were not wholly in Darkneſs, thou would'ſt not thus manifeſt thy own Shame, and give me ſo fair an Opportunity to lay open thy Weakneſs unto all People, but the Day is come, in which the Secrets of all Hearts are to be made manifeſt, and the hidden Things of <hi>Eſau</hi> ſought out, and the Lord is uncovering the Skirts of the Whore, and ſtrip<g ref="char:EOLhyphen"/>ping her of all her various Dreſſes, and uncovering the Naked<g ref="char:EOLhyphen"/>neſs of her and her Merchants; and now at the Light of this glorious Day the <hi>Heathens</hi> rage, and the People that live in Darkneſs are angry; and now conſider thy own Confuſion, who art ſpeaking againſt us for accounting that to Chriſt, or the Appearance of Chriſt, which is ſpoken of <hi>Rom.</hi> 10. now read what the Scriptures ſay, and ſee if thou canſt make any Thing elſe of it, without wreſting of the Scriptures, but Chriſt and his ſpiritual Appearance to the Heart and Soul of Man: <hi>B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Righteouſneſs which is by Faith ſpeaketh on this wiſe, ſay not in thy Heart, who ſhall aſcend into Heaven, that is, to bring Chriſt from above, or who ſhall deſcend into the Deep, that is, to bring Chriſt again from the Dead, but ſaith it, the Word is nigh thee, even in thy Heart, &amp;c.</hi> And John 1. <hi>In the Be<g ref="char:EOLhyphen"/>ginning was the Word, and that Word was with God, and that Word was God, &amp;c.</hi> And ſo we declare it to be, as we have received it, even as the Scriptures teſtifie of it; and whoſoever receives this Word and Light into their Hearts, and continue therein, it will bow their Hearts unto the true and living God,
+<pb n="12" facs="tcp:104255:7"/> and keep them from following or worſhipping any falſe God, and they ſhall and do fear following ſuch Teachers, who cry, Lo here is Chriſt, or lo there is Chriſt, in Carnal Ordinance, or in Outward Obſervation; but through waiting upon God in the Exerciſe of their Hearts and Minds with this precious Light and Word of Faith, they know it to be unto them as it was unto <hi>David,</hi> a Light unto their Feet, and a Lamp unto their Paths.</p>
+            <p>As concerning <hi>G. F.</hi> the Younger and <hi>William Smith,</hi> whom I knew very well, and have this Teſtimony to bear for them, that they were faithful Men in their Day, and were well accom<g ref="char:EOLhyphen"/>pliſhed with Wiſdom, Zeal and Courage, to declare God's Truth, and to publiſh the bleſſed Goſpel, as they had received of the Lord, and were not aſhamed nor afraid to confeſs Chriſt to be the true Light before Men, whoſe Teſtimony we own.</p>
+            <p>Page the 7. Line 1. F. H. ſaith, <hi>Be aſtoniſhed O ye Heavens and be ye utterly frighted! rend your Hearts, and not your Gar<g ref="char:EOLhyphen"/>ments, that hear theſe and the like Blaſphemies, which fills the Books and Speeches of this Generation, who cloa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h their falſe Chriſt and curſed Idol, the Light, which is in all men by Nature with the ſecret Names and divine Attributes, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Now mark this Man's Deceit and Baſeneſs towards us and the precious Truth of our God, which we profeſs, which is pure and ſpiritual, and comes from God the Father of Spi<g ref="char:EOLhyphen"/>rits and Light, and is the ſame Yeſterday, to Day and forever, God bleſſed forever, which he calls a Natural Light, and a Curſed Idol (ſaith he) the Light in all Men; if this Man was not darkened with Envy and Malice, he would never manifeſt ſo much Madneſs as he doth; and to be revenged of us he rails and blaſphemes againſt the true God and Jeſus Chriſt; for mark all that read theſe Lines, which are his own Words, ſaith he, <hi>Who cloath their falſe Chriſt and curſed Idol, the Light, which is in all men:</hi> And now ſee what <hi>John</hi> s Teſtimony is of Chriſt, <hi>John</hi> 1.9. the Words are theſe, <hi>That was the true Light that lighteth every man that cometh into the World,</hi> and again <hi>John</hi> 8.12. And this is the God and Chriſt whom thou haſt curſed,
+<pb n="13" facs="tcp:104255:7" rendition="simple:additions"/> which is a Light in all Men, whereby thou haſt manifeſted by thy Words, that the Spirit of God doth not dwell in thee; <hi>For no man ſpeaking by the Spirit of God calleth Jeſus accurſed,</hi> 1 Cor. 12.3. Now if this Man thinks that he hath not called Jeſus accurſed, let him tell us, ſetting God and Chriſt aſide, what it is that is Light in all Men, or doth give Light unto all Men; let us ſee what he ſaith with his own Tongue, and writes with his own Hand of Chriſt, page 5. Line 16. ſaith he, <hi>I conſtantly affirm, that all men are by Chriſt, who is the true God and Eternal Life, enlightned with the Light of Nature, which</hi> ſaith he in page 7. <hi>is a curſed Idol:</hi> And thus his Confuſion is made manifeſt, and he to be one of the Merchants of <hi>Baby<g ref="char:EOLhyphen"/>lon.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> He ſaith in Page 5. of our Book, <hi>he pretended plainly to confeſs the Chriſt;</hi> but he tells us, that <hi>he will not believe me;</hi> and then asks, <hi>Whether the Virgin</hi> Mary<hi>'s Son be the Chriſt that we preach?</hi> he anſwers his own Queſtion, and ſaith, <hi>No,</hi> like his Brother <hi>Thomas Hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks,</hi> who made a <hi>Dialogue,</hi> feigning and pretending of <hi>A Diſcourſe between a</hi> Chriſtian <hi>and a</hi> Quaker, which in Truth and Reality was no ſuch mat<g ref="char:EOLhyphen"/>ter, but himſelf ſtated what Queſtion he pleaſed, and an<g ref="char:EOLhyphen"/>ſwered them how he would: but this know, both <hi>Presbyteri<g ref="char:EOLhyphen"/>ans</hi> and <hi>Baptiſts,</hi> and all others which combine together againſt the Truth, and to withſtand the Appearance of God in this the Day of his Power; and <hi>although Hand joyn in Hand, yet the Wicked ſhall not go unpuniſhed:</hi> And I tell thee, Thou haſt made an ungodly Anſwer for us; but however, I have in that and in this, made a true Confeſſion of my Faith in Chriſt, and have the Evidence of a Good Conſcience in what I have done, and whether thou <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r any other, who envieth me for the Truth's ſake, will believe me or not, that is little matter to me.</p>
+            <p>
+               <hi>F. H.</hi> asks a Queſtion, pag. 6. <hi>What ſay you of</hi> John 17.1. <hi>Theſe words ſpake Jeſus, and lift up his Eyes to Heaven?</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> I ſay, it was well in Chriſt, who was and is in Heaven, <hi>John</hi> 3.13. but that is no Proof, that every <hi>Phariſee</hi> that imi<g ref="char:EOLhyphen"/>tates him doth well, or is accepted: Remember what Chriſt ſaith of thy Brother <hi>Phariſee</hi> who juſtified himſelf, and was
+<pb n="14" facs="tcp:104255:8"/> condemned of Chriſt, but the poor <hi>Publican</hi> would not ſo much as lift up his Eyes to Heaven, but ſmote upon his Breaſt, ſaying, <hi>God be Merciful to me a Sinner; I tell you,</hi> ſaith Chriſt, <hi>this Man went down to his Houſe rather juſtified.</hi>
+            </p>
+            <p>Pag. 11. <hi>F. H.</hi> ſaith, S. C. <hi>tells another notorious Lye, that theſe men had declared,</hi> That ſome Children before they were born were in a State of Damnation. <hi>And this makes way for another Abominable Lye, where he brings in Mr.</hi> Oddey, <hi>All fell in</hi> Adam, <hi>and ſo</hi> Children before they are born are Veſſels of Wrath and for Deſtruction. <hi>We teſtifie the Truth, that we never ſaid that any Children before they were born, or any elſe, were in a ſtate of Damnation, till with</hi> Dives <hi>they lift up their Eyes in Hell.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> As to thy ſoul Mouth and bitter Speech, ſaying, <hi>I Lye,</hi> in thoſe two Paſſages that I have related of your words and Doctrine that you ſay and preach, <hi>That ſome Children are in a ſtate of Damnation, or guilty of Condemnation before they are born;</hi> that I know, and am able to prove, if you had de<g ref="char:EOLhyphen"/>nyed it; but <hi>Joſeph Oddey</hi> hath confeſſed it, as I ſhall make it appear, ſo that your Railing againſt me is manifeſt to be out of Envy, and to cover your ſelves to the People: For you have preached that in the dark, which you are aſhamed ſhould be brought to the Light; and thinking to cover thy ſelf, thou run<g ref="char:EOLhyphen"/>neſt into another Extream, and ſayſt, <hi>We teſtifie the Truth, that we never ſaid that any Children, before they were born, or any elſe; were in a ſtate of Damnation, till with</hi> Dives <hi>they lift up their Eyes in Hell.</hi> What Mad <hi>Bedlam</hi> Stuff is this? Was ever the like heard of by one that would be called a Mi<g ref="char:EOLhyphen"/>niſter of Chriſt, and doth not know that the Veſſels of Wrath are fitted for Deſtruction, through Diſobedience and Rebelli<g ref="char:EOLhyphen"/>on againſt God, before they be caſt into Hell? But <hi>Franc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> remember thy ſelf, Didſt thou never ſay, <hi>That none were Damned, nor in a ſtate of Damnation?</hi> How often have you pronounced that Sentence, <hi>There remains no more Sacri<g ref="char:EOLhyphen"/>fice for Sin, but a certain fearful looking for of Judgment and fiery Indignation of the Lord againſt</hi> Henry Boſtock? And how much haſt thou ſaid l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs of the <hi>Quakers</hi> in general? Whereby
+<pb n="15" facs="tcp:104255:8" rendition="simple:additions"/> it appears, how thou contradicteſt thy ſelf pag. 8. Thou pre<g ref="char:EOLhyphen"/>tendeſt Grief for thy Country-men, <hi>who,</hi> ſayeſt thou, <hi>flee from the Antichriſt, the Whore of</hi> Babylon, <hi>and falls into the Pit of the Damnable Hereſie of this Antichriſt the</hi> Quakers. Now, can any be led by a Damnable Principle, and they at the ſame time not in a State of Condemnation? O groſs Darkneſs! And doth not Chriſt ſay, <hi>This is the Condem<g ref="char:EOLhyphen"/>nation, that Light is come into the World, and Men love Darkneſs?</hi> And doth not the Scripture ſay, <hi>He that believeth not is condemned already?</hi> But ſaith F. H. <hi>There is none in a ſtate of Damnation, until with</hi> Dives <hi>they lift up their Eyes in Hell.</hi> O great Confuſion and Contradiction, and contrary to the Scripture of Truth.</p>
+            <p>Pag. 13. F. H. ſaith, <hi>He brings me in reading, the Grace of God, that brought Salvation, hath appeared unto Men; leaving out the word</hi> All, <hi>which I teſtifie in God's Sight to my beſt Know<g ref="char:EOLhyphen"/>ledge is utterly Falſhood.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> A pitiful Shift indeed to cover thy Deceit, but alto<g ref="char:EOLhyphen"/>gether too ſhort to do it: What doſt thou and thy Brother <hi>Od<g ref="char:EOLhyphen"/>dey</hi> cry out againſt me for belying thee in this Matter, in ſay<g ref="char:EOLhyphen"/>ing, thou readſt it wrong, <hi>Tit.</hi> 2.11. and left out the word <hi>All,</hi> and now bringeſt no Witneſs to prove me a Lyar? nay, far ſhort of that; for thou haſt not here affirmed it thy ſelf, that thou read the Scripture as it is, but ſayſt, <hi>To the beſt of thy Knowledge thou didſt;</hi> but yet, while thou art giving an Ac<g ref="char:EOLhyphen"/>count of the Matter, thou tellſt us, <hi>That thou doſt not uſe to read that Scripture as it is:</hi> But <hi>Francis,</hi> in the Light that that thou hateſt art thou comprehended, and thy Subtilty ſeen, and thy Deceit made manifeſt. And I tell thee again, I can prove it to thy Face, that to be true which I have charged thee withal, in that Matter, although thou haſt willingly forgotten it; and further, it appears by thy own words, which thou haſt here publiſhed in Print, that what I have ſaid of thee is true, whereby there needs no further Witneſs then what I have from thee and thy Brother <hi>Oddey,</hi> under your Own Hands.</p>
+            <p>Pag. 13. Read his own words which are theſe, whereby all
+<pb n="16" facs="tcp:104255:9"/> may ſee what Cauſe this man hath to Rail at me for ſaying the Truth, that he left out the word <hi>All,</hi> excepting this, they would not have their Hearers and others know what wicked Perverters they are of the holy Scriptures; pag. 13. lin. 15. his words are theſe, <hi>Now take All Men here for Every Parti<g ref="char:EOLhyphen"/>cular, I have thought it not agreeing to the Analogy and Rule of Faith to ſay, The Grace of God that brings Salvation hath ap<g ref="char:EOLhyphen"/>peared or ſhined on All Men.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> But <hi>Francis,</hi> what Faith is thine, that doth not allow thee to believe the Scriptures of Truth to be true or ſound, as they are declared by the Holy Ghoſt that dwelt in them that ſpake them, as it is written, 2 <hi>Pet.</hi> 1.21. <hi>For the Prophecy came not in Old Time by the Will of Man, but Holy Men of God ſpake as they were moved by the Holy Ghoſt.</hi> May not I and others that read thy words juſtly judge thee out of thy own Mouth, that thou art the Man, and art in that State that thou ſayeſt of the <hi>Quakers,</hi> and canſt not prove it, neither by our Words or Writings; but thou art apoſtatized from the true and living Faith, that was once delivered to the Saints: For the Apoſtle ſaith, Titus 2.11. <hi>For the Grace of God, that brings Salvation, hath appeared unto all men,</hi> and further, it is ſaid, 1 <hi>Tim.</hi> 2.4. where it is ſaid, <hi>God would have all men to be ſaved, and come to the Knowledge of the Truth.</hi> And thou ſayſt, <hi>that it doth not ſtand with thy Rule of Faith:</hi> whereby it appears that thou art not of the Apoſtles Faith; for if thou waſt in their Faith, thou wouldſt own and believe their words to be more certain to be the Mind of God then thy Thoughts: But I tell thee, thou Merchant of <hi>Babylon,</hi> Thy Corrupt Thoughts have deceived thee in this weighty Matter, and the Enemy of thy Soul hath blinded thee, as he hath in ſeveral o<g ref="char:EOLhyphen"/>ther things concerning us: But how ſhould we expect better from thee, but Wreſting and Perverting our Words, when thou art ſo much in the dark as to tell us in print, <hi>That to read and take the Apoſtles words as they are ſpoken, doth not agree with thy Rule of Faith;</hi> whereby it plainly appears, thou haſt not the Faith of God's Elect, for if thou hadſt, thou wouldſt be of the ſame Mind th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey were in.</p>
+            <pb n="17" facs="tcp:104255:9" rendition="simple:additions"/>
+            <p>Pag. 13. F. H. ſaith theſe words, <hi>I ſay, in the Fear of</hi> Je<g ref="char:EOLhyphen"/>hovah, <hi>all you that believe or fear no New or Strange Gods, no Falſe Chriſt, not this Falſe Chriſt of the</hi> Quakers, <hi>that Light that is in all men.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> It was alwayes the Way and Practice of Deceivers in all Ages, to labour to keep the People in Darkneſs and Blind<g ref="char:EOLhyphen"/>neſs, and ignorant of the Appearance of the true and living God, as God is pleaſed to appear and manifeſt himſelf unto the Sons and Daughters of men, for the ſaving of their Souls, and the Way by which they carry on their Ungodly W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rks, was the Way that this our Adverſary and Enemy of the Ap<g ref="char:EOLhyphen"/>pearance of the true God and Jeſus Chriſt in our Day now ta<g ref="char:EOLhyphen"/>keth; whereby he is manife<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted by his Fruits to be in the Steps of his Fore-father<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, who envy d the luſt, who ſaid, that which was really True was Falſe, and that which was God was a Devil, and that whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h was of God, and came from God, to be of the Devil, whereby they ſtirred up the People that followed them and believed them to envy the Prophets, and in their Envy, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age and Fury the Prieſts had ſtirred them up unto, to perſecute Chriſt, although the Scriptures bear Teſtimony very plainly, that he was the true Meſſiah and Saviour of the World, yet they would call him a <hi>Deceiver,</hi> and thoſe that were Followers of him, and Believers in his Name <hi>deceived by him;</hi> and ſo ſaid of him, <hi>He deceived the People:</hi> And thus doth F. H. now, who treads in the Steps of his Fore Fathers, the High P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieſts, who calls the True Chriſt a <hi>Falſe Chriſt;</hi> and thoſe that believe in his Name, and are led and guided by his Heavenly and Spiritual Light, which is the Way of Life, to be <hi>deceived</hi> and <hi>Deceivers.</hi>
+            </p>
+            <p>F. H. ſaith, pag. 13. towards the latter-end of his Book, <hi>And know Deceivers, though you tell us a Thouſand Times over, that you own Jeſus of</hi> Nazareth, <hi>till you repent, and renounce you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Falſe Chriſt, the Light in all men, till you</hi> CAST THAT YOUR IDOL TO THE BATS AND MOLES, WE WILL LOOK UPON YOU AS DECEIVERS.</p>
+            <p>
+               <hi>Rep.</hi> Herein thou haſt manifeſted thy ſelf to be of that Ge<g ref="char:EOLhyphen"/>neration who ſaid to Chriſt, <hi>Come do<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m the Croſs, and we
+<pb n="18" facs="tcp:104255:10"/> will believe thee;</hi> and commanded the Apoſtles, <hi>that they ſhould preach no more in the Name of Jeſus:</hi> And thou ſayſt, <hi>Till we caſt away the Chriſt which is the Light in all men, thou wilt not believe us;</hi> which Chriſt is the true Chriſt, that light<g ref="char:EOLhyphen"/>eth all men, and witneſſed ſo to be by the Scriptures of Truth, ſpoken by the Prophets, and Jeſus Chriſt himſelf, and the ho<g ref="char:EOLhyphen"/>ly Apoſtles, which I have before largely proved, and in whoſe Light the Church of Chriſt had Fellowſhip one with another, 1 <hi>John</hi> 1.7. And its ſaid by the Apoſtle, That <hi>they that ſay they have Fellowſhip with God, and walk in Darkneſs, they lye, and do not the Truth;</hi> amongſt whom I number thee, who haſt manifeſted ſo much Envy againſt the Light, and the Servants of it, and tells us, <hi>until we caſt that away,</hi> namely, Chriſt, the Light, which is the Guide and Way to Heaven, as before I have proved, <hi>you will look upon us as Deceivers;</hi> that we cannot help; but I ſay, the more is the pity, that thou or any man ſhould be ſo overcome, and led captive by the Power of Darkneſs, that you will not own us nor our Teſtimony, unleſs we will deny the true God and Jeſus Chriſt: I tell thee, <hi>Fran<g ref="char:EOLhyphen"/>cis,</hi> thou haſt ſet us too dear a Price for us to give you, for your Approbation of us; nay, although you had as much to proffer as your Maſter the power of Darkneſs proffered Chriſt, if he would fall down and worſhip him: I hope neither I, nor any one amongſt us; who loves the Light, and believes therein, and hath ſeen and felt how good the Lord hath been unto our Souls, thereby ſhall ever ſo deny the Lord that bought them, as in caſting away ſo precious a pearl as this Heavenly and Divine Light of Chriſt, which hath ever been and yet is to all them that believe in it, and no man ever was nor can be truly happy with<g ref="char:EOLhyphen"/>out they believe in it and obey it, which thou ſayeſt <hi>we muſt caſt away;</hi> but I tell thee, that if thou doſt expect it, thou art miſta<g ref="char:EOLhyphen"/>ken; and thy Eyes will ſink in their Holes, and thy carnal Ima<g ref="char:EOLhyphen"/>ginations will rot in thy Head, before thou ſeeſt that, That ever a People ſhould turn from the Light and Truth of God, made manifeſt in our Hearts and Conſciences, for the purifying of our Hearts and ſaving of our Souls, to turn unto your dark Imaginations, who are ſuch bitter Enemies unto the Light,
+<pb n="19" facs="tcp:104255:10" rendition="simple:additions"/> which gives the Knowledge of God, and r veals the Myſteries of Life unto all them that believe therein, 2 <hi>Cor.</hi> 4.6. Now I teſtifie, That Widdowhood and Loſs of Children muſt be the Portion of all you Profeſſors, as it hath been ever ſince we have been a People, to bear Teſtimony unto the bleſſed and ſpiritual Appearance of God in the Light of his dear Son. And I am not without Hope, that ſome that are late turned from you and your dark Imaginations, are and will be the more confirmed in this precious Truth, unto which their Minds are turned; and that thoſe that yet ſit under your Dark and Confuſed Teaching, who hate the Light, and are Reproach<g ref="char:EOLhyphen"/>ers and Railers againſt the Lovers of it, may thereby be a<g ref="char:EOLhyphen"/>wakened to conſider what they are a doing, in following ſuch Teachers, who are againſt the True Light and Univerſal Love of God held forth to all men thereby; for there is but Light and Darkneſs, and they that hate the Light, muſt needs be in Darkneſs: And the Apoſtle <hi>John</hi> ſaith, <hi>They that walk in Darkneſs, they lye, and do not the Truth.</hi>
+            </p>
+            <p>Now, I would have all People take notice, that F. H. doth not Rail againſt us for Darkneſs, and expreſs his Envy againſt us as being led by the power of Darkneſs; for he intitles us that, and ſaith, <hi>the Quakers God and Chriſt,</hi> as you may ſee all along in his Book, the Light that is in All Men, which the Scripture witneſſeth to be the True God and Jeſus Chriſt, which I have before proved by the Scriptures; only this I would have all People take notice of, which I have hinted at before, which is the Practice of him and all ſuch Blind G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ides as he is, to call that which is <hi>True, Falſe;</hi> and that which is really <hi>True</hi> he calls <hi>Falſe,</hi> and that which is the <hi>True Light</hi> he calls <hi>Darkneſs:</hi> For there is nothing that giveth Light to every Man, but the <hi>True God</hi> and <hi>Chriſt;</hi> and thus he puts <hi>Light</hi> for <hi>Darkneſs?</hi> whereby it appears, according to the Scriptures, he is under the Wo, <hi>Iſa.</hi> 5.20.</p>
+            <p>And now I ſhall take a little Notice of what <hi>Joſeph Oddey</hi> ſaith, page 14. who writes to one <hi>Samuel Cater, a Deceiver amongſt the</hi> Quakers, <hi>who at that Meeting at</hi> Thriploe: And for what he hath ſaid now in this Paper, he deſerveth juſt Re<g ref="char:EOLhyphen"/>proof
+<pb n="20" facs="tcp:104255:11"/> for his rude and unſavoury Words, which do not become a Man that profeſſeth himſelf to be a Miniſter of Chriſt.</p>
+            <p>
+               <hi>Rep.</hi> And now J. O. I do tell thee, that the Light of Chriſt t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at I, with many more, have received, teacheth us not to render Evil for Evil, nor Railing for Railing; but contrarywiſe, to ſpeak the Truth in Soberneſs, and with ſound Words to de<g ref="char:EOLhyphen"/>monſtrate and declare the Truth as it is in Jeſus: And now thou haſt called me a Deceiver, which is a falſe Accuſation, and thou might'ſt better have left it until thou hadſt proved me ſo, which thou nor thy Brother could not do, although pro<g ref="char:EOLhyphen"/>miſed to do it; and thou called'ſt us a Generation of Vipers, and ſaid'ſt, <hi>Thou would'ſt prove us ſo to be before you went away,</hi> and did'ſt not then do it, ſo that it appears it is an eaſier Matter to caſt Reproaches and Slanders upon a People, then it is to prove it when you have done: But <hi>Joſeph,</hi> thou manifeſts by thy Fruit what Spirit rules thy Heart; for ſaith the Scripture, <hi>An Evil Man out of the Evil Treaſure of his Heart brings forth Evil Things, from that cometh Railing, and Evil-ſpeaking, and Backbiting.</hi>
+            </p>
+            <p>Page 14. he pretends to examine me <hi>with what Face I could ſay that his Brother</hi> Holdcraft <hi>did not read the Scripture right,</hi> Tit. 2.11. <hi>The Grace of God that brings Salvation hath appear<g ref="char:EOLhyphen"/>ed unto Men, and that he left out the Word ALL, and impu<g ref="char:EOLhyphen"/>dently ſaid, it was not in the Greek; can this be a bare miſtake in thy ſelf and others.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> I ſay no, it is no Miſtake, we do ſtill affirm the ſame to be true of him, as we have publiſhed, and there are three of our Names to it, and many more will witneſs it to your Faces to be true, if an Opportunity be afforded; and further, there was a Man that at the ſame time when <hi>Francis</hi> ſaid, that the Word ALL was not in the Greek as it is in our Books, re<g ref="char:EOLhyphen"/>proved him, and asked him <hi>why he brought his Bible hither if it were wrong tranſlated,</hi> a Man that ſtood by as a Hearer, well known in the Country to be a Man of Eſtate and Credit, who was not then, nor is now one with us in Principle or Practice.</p>
+            <p>Page 14. How <hi>J. O:</hi> proves that I have belyed his Brother <hi>Holdcraft,</hi> ſaith he, <hi>I ſtood next him on the one ſide, had my
+<pb n="21" facs="tcp:104255:11" rendition="simple:additions"/> Hearing through God's Goodneſs, I think I may ſay as well as you, could this be, and I not hear it? I forgot not wholly the Conten<g ref="char:EOLhyphen"/>tion with Mr.</hi> Holdcraft <hi>about the altering of the Reading of it from what it is ordinarily in our</hi> Engliſh <hi>Bibles.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou haſt granted that thou knoweſt that he did not read it as it is in our Bibles, whereby thou haſt contradicted him, who ſaith, he read it no other Way then it is in our Bibles, and thus theſe two Brethren in Iniquity contradict and confound one another.</p>
+            <p>But ſaith <hi>J. O. I call God for a Record upon my Soul, that I know nothing of this you ſay.</hi>
+            </p>
+            <p>But <hi>Joſeph,</hi> I muſt tell thee, I do greatly queſtion whether thou now ſpeakeſt Truth or no, but however I ſhall leave that to God and thy own Conſcience.</p>
+            <p>But if this be true, thou doſt ſay that thou knoweſt nothing of it, haſt thou done wiſely to call me a Lyar for ſaying that that I know to be true, and have ſeveral Witneſſes to prove it, and thou ſay'ſt, thou know'ſt nothing of it; then I tell thee thou had'ſt been wiſer and honeſter if thou had'ſt held thy Tongue, and now telleſt us, thou thinkeſt thou had'ſt thy Hear<g ref="char:EOLhyphen"/>ing as well as I, &amp;c.</p>
+            <p>This is like thy Brother, who ſaith in page 3. <hi>obſerving as I thought in ſome of theſe People that Lightneſs, &amp;c.</hi> and page 13. where <hi>F. H.</hi> ſpeaks concerning the Grace of God, <hi>Now take all men here for every particular man, I have thought it not agreeing to the Rule of Faith;</hi> I tell you both that your Thoughts have deceived you, and your Folly is made manifeſt; and whereas you thought to have done proudly, in exalting your Names and dark Imaginations above the Light and Truth of God, and to have inſulted over them that believe therein, and are led and guided thereby, your Weakneſs is thereby made manifeſt, and your Deceit laid open.</p>
+            <p>Page 14. <hi>Joſeph Oddey</hi> ſaith, <hi>I appeal to all that were preſent whether any ſuch Thing was ſpoken, only I deſire to know their Names.</hi>
+            </p>
+            <p>According to his Deſire here is a Teſtimony under the Hands of ſome of them that were there, and many more remember
+<pb n="22" facs="tcp:104255:12"/> the ſame, and are alſo ready to witneſs it, if there were Need for it.</p>
+            <p>
+               <hi>This we teſtifie whoſe Names are here under-written, who were Eye and Ear-Witneſſes to what was ſaid at the Meeting at</hi> Thriploe, <hi>the</hi> 15th <hi>Day of the</hi> 2d <hi>Moneth,</hi> 76. <hi>that</hi> Francis Holdcraft, <hi>when he read</hi> Tit. 2.11. <hi>left out the Word ALL, and ſaid it was not in the</hi> Greek.</p>
+            <list>
+               <item>John Harvey,</item>
+               <item>John Claydon,</item>
+               <item>John Butcher,</item>
+               <item>Giles Waklen,</item>
+               <item>Samuel Reader,</item>
+               <item>John Salmon,</item>
+               <item>Richard Web,</item>
+               <item>Matthew Duy,</item>
+               <item>Jonathan Johnſon,</item>
+               <item>Henry Boſtock,</item>
+               <item>John Cathen,</item>
+               <item>John Love,</item>
+               <item>Thomas Miller,</item>
+               <item>Robert Salmon.</item>
+            </list>
+            <p>And now concerning the Grace of God ſpoken of in <hi>Tit.</hi> 2.11. which theſe Men are ſo angry with me for detecting their Folly therein; and now ſee what he ſaith, and hath given under his Hand as his Thoughts and Judgment concerning that Scrip<g ref="char:EOLhyphen"/>ture, and compare his Words, and <hi>F. H.</hi> in page 13 in their own Book, with what they ſpake concerning t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Grace of God and its Appearance that Day at <hi>Thriploe,</hi> which we have given a true Account of in Print, whereby all may ſee what Wrong we have done them in ſaying that of them which here they have ſpoken as much themſelves.</p>
+            <p>Page 14. <hi>J. O.</hi> ſaith, <hi>Thus the Grace of God, though it brings Salvation to all men where the Goſpel comes, in Reſpect of the Proffer and Tender thereof, yet it doth not appear to all men in that Largeneſs you contend for.</hi>
+            </p>
+            <p>And in page 13. <hi>F. H.</hi> ſaith concerning the ſecond of <hi>Titus</hi> 11. <hi>Now take all men here for every particular man, I have thought it not agreeing to the Analogy and Rule of Faith, to ſay, The Grace of God that brings Salvation hath appeared or ſhined on all men.</hi>
+            </p>
+            <p>In the ſame page <hi>J.O.</hi> calls me a <hi>Lyar,</hi> for ſaying that he
+<pb n="23" facs="tcp:104255:12" rendition="simple:additions"/> ſaid, <hi>that ſome Children before they are born were guilty of O<g ref="char:EOLhyphen"/>riginal Sin, and were Veſſels of Wrath, and for Deſtru<g ref="char:EOLhyphen"/>ction.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Which I am able to prove he did at that Time ſay, and hath at other times often declared the ſame, and further, hath here declared as his Judgment, page 14. toward the latter End, <hi>Children while they are in the Womb, before they are born, ſo ſoon as they have Life, and are a living Soul, are guilty of Original Sin, I own this for Truth, &amp;c.</hi> Now the ſame Scrip<g ref="char:EOLhyphen"/>ture that proves them to be guilty of Original Sin, proves them to be Children of Wrath, and under Condemnation.</p>
+            <p>By this all may ſee that to be his Judgment that he calls me a Lyar for reporting of him, whereby his Envy and Folly is made manifeſt, and my Innocency cleared, and out of his own Mouth that is proved which I have charged him with, ſo that it is pro<g ref="char:EOLhyphen"/>ved that this Man hath cal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed me a Lyar out of Envy, and not that I have wronged him, which Doctrine of theirs is falſe, and altogether contrary to the Mind and Will of God declared in the Scriptur s of Truth, as I told them before, that is to ſay, that Children are guilty of Sin before they are born, and under Condemnation, and are Veſſels of VVrath, which to ſay is a Damnable Doctrine, and altoge her contrary to the Equal and Juſt VVayes of God, who ſaith, <hi>Are not my Wayes Equal?</hi> and there is no Scripture that ſaith Children are guilty of Ori<g ref="char:EOLhyphen"/>ginal Sin, and it is a dark Imagination for any to believe or af<g ref="char:EOLhyphen"/>firm it, and the Scripture proves the contrary, Ezek. 18.2. <hi>The Soul that ſinneth it ſhall dye, the Son ſhall not bear the Iniquity of the Father, &amp;c.</hi> Jer. 31.29. <hi>They ſhall ſay no more, the Fathers have eaten ſour Grapes, and the Childrens Teeth are ſet on Edge; but every Man ſhall dye for his own Iniquity, he that eateth, his Teeth ſhall be ſet on Edge.</hi>
+            </p>
+            <p>S. C.</p>
+            <p>Pag. 15. line 27. <hi>Joſeph Oddey</hi> bids me ask <hi>Henry Boſtock, whom</hi> (ſaith he) <hi>knows our Doctrine, whom I think would have done us ſo much Right, as to have told you what our Doctrine is concerning Children before they are born.</hi>
+            </p>
+            <pb n="24" facs="tcp:104255:13"/>
+            <p>And now here follows a Teſtation under the Hand of <hi>Henry Boſtock,</hi> concerning the Doctrine of <hi>Francis Houlcraft</hi> and <hi>Joſeph Oddey,</hi> which is, <hi>That ſome Children before they are born, are in a State of Damnation.</hi> This I have known to have been their Principle this Seven Years; and at that Meeting at <hi>Thriploe Joſeph Oddey</hi> did affirm the ſame.</p>
+            <closer>
+               <signed>Henry Boſtock.</signed>
+            </closer>
+         </div>
+         <div type="list_of_contradictions">
+            <head>Now ſee theſe Mens CONFUSION, and how they CONTRADICT Themſelves.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>F. H. <hi>PAge 5. line 16.</hi> I Conſtantly affirm, that All Men are by Chriſt, who is the true God and eter<g ref="char:EOLhyphen"/>nal Life, enlightned with the Light of Nature.</cell>
+                     <cell>F. H. <hi>pag. 7. lin. 4.</hi> Who clothes their Falſe Chriſt and Curſed Idol, the Light which is in All Men by Nature.</cell>
+                  </row>
+                  <row>
+                     <cell>F. H. <hi>pag. 7. towards the latter end, ſaith,</hi> Chriſt, the Word, made Fleſh, enlightens Every Man with Natural Knowledge and Light.</cell>
+                     <cell>F. H. <hi>pag, 8. lin. 5.</hi> The Light which is in every man is Darkneſs.</cell>
+                  </row>
+                  <row>
+                     <cell>F. H. <hi>pag. 10. lin. 5.</hi> I call to mind what one of you, one <hi>Henry Boſtock,</hi> an Apo<g ref="char:EOLhyphen"/>ſtate, ſaid to me; God forbid that I ſhould own ſuch a God that hath Hands and Feet.</cell>
+                     <cell>F. H. <hi>ſaith towards the latter end of this page,</hi> There is but one living and true God, Everlaſting, Without Body, Parts or Paſſions, &amp;c.</cell>
+                  </row>
+                  <pb n="25" facs="tcp:104255:13" rendition="simple:additions"/>
+                  <row>
+                     <cell>F. H. <hi>pag. 11. towards the latter end,</hi> That we never ſaid, that any Children before they were born, or any elſe, were in a ſtate of Damnation, till with <hi>Dives</hi> they lift up their Eyes in Hell.</cell>
+                     <cell>J. O. <hi>pag. 16. lin. 3.</hi> I ſpeak of Children before they be born, the ſame Scripture that prove them to be guilty of Original Sin, proves them to be Children of Wrath, and un<g ref="char:EOLhyphen"/>der Condemnation.</cell>
+                  </row>
+                  <row>
+                     <cell>F. H. <hi>pag. 13. lin. 13.</hi> My Friends may know for ſome time my Reading that Word no other then what is in the <hi>Engliſh</hi> Bible.</cell>
+                     <cell>J. O. <hi>pag. 14. lin. 14.</hi> I forgot not wholely the Conten<g ref="char:EOLhyphen"/>tion with Mr. <hi>Houldcraft,</hi> a<g ref="char:EOLhyphen"/>bout the altering of the Read<g ref="char:EOLhyphen"/>ing from what it is ordinarily in our <hi>Engliſh</hi> Bibles.</cell>
+                  </row>
+               </table>
+            </p>
+            <lg>
+               <l>Their Controverſie ſtated here,</l>
+               <l>is little elſe but Fictions,</l>
+               <l>Which we have plainly made appear;</l>
+               <l>behold their Contradictions.</l>
+            </lg>
+            <lg>
+               <l>The Truth of what is here declared</l>
+               <l>wee'l certainly Maintain,</l>
+               <l>And turn your Curſed Forgeries</l>
+               <l>upon your Backs again.</l>
+            </lg>
+            <lg>
+               <l>Shall Impudence with open Face</l>
+               <l>thus act, and not be blamed,</l>
+               <l>Who have thus with ſuch foul Diſgrace</l>
+               <l>God's Glorious Light defamed?</l>
+            </lg>
+            <lg>
+               <l>Shall Forgeries be counted Zeal,</l>
+               <l>or Lyes upon us fall?</l>
+               <l>No, no, the Power of God we feel,</l>
+               <l>to Triumph over All,</l>
+            </lg>
+            <closer>
+               <signed>Jacob Bake<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="26" facs="tcp:104255:14"/>
+            <head>Here followeth a Teſtimony againſt the Falſe Doctrines aſſerted by theſe Men, who ſay, that <hi>Children before they are born are Veſſels of Wrath, and under Condemnation becauſe of their Fathers Sin;</hi> which Judgment of theirs is here detected by the Scrip<g ref="char:EOLhyphen"/>tures of Truth, and the contrary proved, and their wreſting the Scriptures diſcovered.</head>
+            <p>THis is the Teſtimony that God Almighty hath put into my Heart to bear, with many more Brethren; That God, who is rich in Mercy, and deſires not that any ſhould periſh, but that all might turn from the Evil of their Wayes, and live; that the Day of his Power is now in this our Day, Age and Generation, dawned and broken forth, which <hi>John</hi> ſaw in the Viſion of the Almighty, when he was in the Spirit, by which the Things of God were revealed unto him, who ſaid, <hi>Rev.</hi> 14.6. <hi>I ſaw an Angel fly in the midſt of Heaven, having the Everlaſting Goſpel to preach unto them that dwell up<g ref="char:EOLhyphen"/>on the Earth, and to every Nation, and Kindred, and Tongue and People;</hi> which Time is now come, in which the Lord's Power and Holy Spirit moves upon our Hearts to preach the Word of Reconciliation unto all men, which is according to the ancient Teſtimony of the Servants of God and Mi<g ref="char:EOLhyphen"/>niſters of Chriſt, which went before us; whereby it ap<g ref="char:EOLhyphen"/>pears, according to the Scriptures of Truth, that the Goſpel which we preach is the ſame that was begun to be preached by the Lord Jeſus, and was confirmed by them that heard him. 1 <hi>Tim.</hi> 3.4. <hi>For this is acceptable in the ſight of God our Saviour, who would have all men to be ſaved, and come to the Knowledge of the Truth.</hi> And this is the Goſpel that the True Miniſters now preach, which is Glad-tidings unto all that are in their Sins, <hi>That there is Mercy with the Lord for them
+<pb n="27" facs="tcp:104255:14" rendition="simple:additions"/> all that they may be ſaved:</hi> For <hi>Chriſt is come a Light into the World, that whoſoever believes in him, ſhould not periſh:</hi> And, <hi>The Grace of God that brings Salvation appears unto all men, to teach them to deny <g ref="char:V">Ʋ</g>ngodlineſs;</hi> and whoſoever bows to the Teachings of it, ſhall be ſaved.</p>
+            <p>And as Chriſt ſtood up in the great Day of the Feaſt, ſaying, <hi>If any Man thirſt, let him come unto me and drink;</hi> whereby it appears that God's Love is unto all Men; and bleſſed be the Lord, there is a Remnant whom God by the Light of his dear Son, that ſhineth in our Hearts, he hath brought us to ſee the ſame, and hath inlarged our Hearts by Faith in his Power, to publiſh Peace by Jeſus Chriſt unto all Men; whereby the VVords of Chriſt are fulfilled, Joh. 3.14. <hi>As</hi> Moſes <hi>lifted up the Serpent in the Wilderneſs, ſo muſt the Son of Man be lifted up;</hi> whereby the Folly of theſe Men is made manifeſt, and their falſe Doctrines detected, who would tye up the Love of God in Jeſus Chriſt to but a few, a certain Number of People; now ſee <hi>Numb.</hi> 21.9. whether that Serpent of Braſs that Chriſt ſpeaks of, that was ſet upon a Pole, was only for one or two Tribes of <hi>Iſrael</hi> to be healed by, as theſe Men vainly imagine concerning the Love of God now manifeſted in Chriſt, which they ſay is but for a few; if ſo, that was not a true Fi<g ref="char:EOLhyphen"/>gure of the Love of God in Chriſt, or there is a Shortneſs in Chriſt, the Subſtance, of performing to and for Man that which figured it out, if theſe Mens Doctrines be true; for it came to paſs, that if a Serpent had bit any Man, when he be<g ref="char:EOLhyphen"/>held the Serpent of Braſs he lived: Now theſe Men will rea<g ref="char:EOLhyphen"/>dily grant, that all are bit or ſtung by the old Enemy of Man, the Serpent that beguiled <hi>Eve</hi> in the Beginning; but they have not ſo much Faith as to believe that there is Vertue e<g ref="char:EOLhyphen"/>nough in Chriſt to cure us all, or if there be, it is not intended for all; let ſuch Teachers hold their Tongues, that are out of the Faith that was and is delivered unto the Saints and Mini<g ref="char:EOLhyphen"/>ſters of Chriſt; for they give an uncertain Sound, and are but like ſounding Braſs and tinkling Cymbals, who make a Din in Peoples Ears, but do not reach to the VVitneſs of God in the Hearts and Conſciences of Men and VVomen, who have
+<pb n="28" facs="tcp:104255:15"/> not received that Commiſſion that Chriſt gave unto his Diſci<g ref="char:EOLhyphen"/>ples, Mark 16.15. who bad his Diſciples <hi>go and preach the Goſpel unto every Creature,</hi> which Goſpel was Glad Tidings to the poor, and the opening of the Priſon Doors to them that were bound, and Light to them that ſate in Darkneſs; and in a word, to give Knowledge of Salvation, and of a Phyſician that hath Virtue in him to cure all Diſeaſes that come upon Mans Heart and Soul becauſe of Sin; and this is freely ten<g ref="char:EOLhyphen"/>dered unto all Men that will believe in him, and look unto him. And now whereas theſe Men make a Noiſe about a State of Children being under Condemnation, becauſe of their Fathers Sins, which Saying of theirs is altogether contrary to the Scriptures of Truth, <hi>Jer.</hi> 31.30. And concerning Chil<g ref="char:EOLhyphen"/>dren Chriſt ſaith, <hi>Of ſuch is the Kingdom of Heaven;</hi> and fur<g ref="char:EOLhyphen"/>ther ſaith, <hi>Whoſoever receiveth not the Kingdom as a little Child, he ſhall in no Wiſe enter therein;</hi> which Words do plainly im<g ref="char:EOLhyphen"/>ply Children to be in an innocent State, and free from Sin and Evil; for the Scripture ſaith, <hi>Nothing that defileth can enter into God's Kingdom:</hi> But <hi>J. O.</hi> having a Deſire to prove Children Sinners before they are born, he brings i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Eph.</hi> 2.3. <hi>Among whom alſo we all had our Converſations in Times paſt, in the Luſt of our Fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh, following the Deſires of the Fleſh and of the Mind, and were by Nature the Children of Wrath as well as o<g ref="char:EOLhyphen"/>thers;</hi> now all may ſee how this man wreſts the Scriptures to prove their dark Imaginations concerning Children being in a State of Condemnation before they are born; now ſee and conſider whether Children before they are born can commit ſuch Things as this Scripture ſaith that theſe <hi>Epheſians</hi> were guilty of before they were converted unto God; he brings <hi>Rom.</hi> 3.9. again 9.33. and <hi>Tit.</hi> 3.5, 6. where all may ſee whether theſe Scriptures ſpeak any Thing of Children before they are born being guilty of Sin, which he hath a Mind to ſtrain them to; but it's plain to the contrary, and ſpeaks of the States of Men and Women, and not of Children, whereby his Folly is made manifeſt: And this further I ask theſe men, which would have Children before they are born to be Children of Wrath, becauſe of their Fathers Sins, which they are innocent
+<pb n="29" facs="tcp:104255:15" rendition="simple:additions"/> of; where that Scripture is that ſaith, that God ever condem<g ref="char:EOLhyphen"/>ned the Righteous or innocent for the Wicked's ſake, as they darkly ſay, that God condemns the Innocent Children for their Fathers Sins; nay, the contrary is eaſily to be proved, that God hath and doth many Times ſpare the wicked for the ſake of the Righteous, which is far from deſtroying the guilt<g ref="char:EOLhyphen"/>leſs for the guilty ſake; ſo that the Judge of the whole Earth doth right Things, <hi>Gen.</hi> 18.25. So the Way of the Lord is equal, who ſheweth Mercy without Reſpect of Perſons to all that fear his Name, and obey his Grace; and his Judgments are juſt upon all that rebel againſt the Appearance of his Grace, and hate the Light that manifeſtly ſhines upon all, ſo that Man's Deſtruction is of himſelf, for want of receiving Chriſt, the Son of his Love into his Heart, who is come a Light into the World, and is knocking at every Ones Do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, for the awaken<g ref="char:EOLhyphen"/>ing of them out of their Sins, and that he might purge their Conſciences from Dead Works, and renew their Minds, and enlarge their Hearts to ſerve the living and true God.</p>
+            <p>And as con<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rning <hi>Children before they are born,</hi> they are doubtleſs in a State of <hi>Innocency;</hi> and after they are born, un<g ref="char:EOLhyphen"/>til they come to that Age as to underſtand Good and Evil, then chooſing the Evil, and refuſing knowingly that which is Good, that contracts the Guilt upon their Conſcience, whereby they come under the State of Reproof for it, and Condemnation if they continue in that which is Evil, which is juſt upon them for their own Sins, and not for their Fathers, which they never committed: which agrees with the Word of the Lord ſpoken by his Prophet, <hi>Jer.</hi> 31.30. <hi>That every one ſhall dye for his own Sins, he that eateth, his Teeth ſhall be ſet on Edge;</hi> ſo as the Lord ſaith, and complains of a rebellious Generation, <hi>As the Children grew up, ſo they went from me:</hi> So that it is plain that People bring forth Fruit according to the Seed which they re<g ref="char:EOLhyphen"/>ceive into their Hearts, and yield up the Strength of their Deſires unto; they that receive the good Seed that God hath ſown, and yield up the Strength of their Deſires unto it, they bring forth Fruits unto Holineſs, which Seed Chriſt ſaith is ſown in all Sorts of Grounds; but now who doth not watch
+<pb n="30" facs="tcp:104255:16" rendition="simple:additions"/> unto this bleſſed Seed and Grace of God, the Appearance of which is unto all without reſpect of Perſons; but like the Sluggard, ſlumbers away the Time, and doth not watch unto the Light of Chriſt Jeſus, to lead them, keep them &amp; preſerve them out of the Wicked One's Snares, in them the Wicked One ſows his Seed, which grows up, and they in that bring forth Evil Fruits; and thus we ſee the Scriptures fulfilled, according as it is written, Luke 6.45. <hi>A Good Man out of the Good Trea<g ref="char:EOLhyphen"/>ſure that is in his Heart bringeth forth Good Things, and the Evil Man out of the Evil Treaſure of his Heart bringeth forth Evil Things.</hi> And therefore, let every one now examine themſelves, and ſee what Root bares them: for it is Fruits of Holineſs that the Lord looks for, and requires ar the Hand of every one which he hath made, and given Life and Breath un<g ref="char:EOLhyphen"/>to, and for that End, that all may bring forth Fruit to his Glo<g ref="char:EOLhyphen"/>ry; he hath given unto every man a Manifeſtation of his own Spirit to profit withal, as ſaith the Apoſtle, 1 <hi>Cor.</hi> 12.7. and a Meaſure of his own Light to be a Guide unto them, which Spirit and Light appears within Man and Woman, whereby that ſaying is fulfilled which the Apoſtle ſpea<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of, <hi>Rom.</hi> chap. 1. verſ. 19. <hi>That which may be known of God, is manifeſt in them.</hi> And now, let none be diſcouraged by theſe Blind Guides, who ſay, <hi>That the Grace of God did not appear unto All Men;</hi> and now ſay, <hi>That it doth not agree with their Rule of Faith to ſpeak and to believe as the Apoſtle believed and ſpake,</hi> as you may ſee under their own Hands.</p>
+            <closer>
+               <signed>
+                  <hi>And thus God hath cleared the Innocent from their Slanders, and I have faithfully Detected their Falſe Doctrines, and aſſerted the Truth as it is in Jeſus, who am a Servant to all in the Truth,</hi> S. Cater</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:104255:16" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
